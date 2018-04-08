@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/4/8 18:58:21。
+     1>项目“C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\ComputerAnimationPro\ComputerAnimationPro.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing qtquick2applicationviewer.h...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_qtquick2applicationviewer.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_qtquick2applicationviewer.cpp, GeneratedFiles\Release\moc_qtquick2applicationviewer.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\5.8\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\Qt\5.8\msvc2013_64\include\QtCore /ID:\Qt\5.8\msvc2013_64\include\QtGui /ID:\Qt\5.8\msvc2013_64\include\QtQml /ID:\Qt\5.8\msvc2013_64\include\QtQuick /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_QML_LIB /D QT_QUICK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_qtquick2applicationviewer.cpp main.cpp qtquick2applicationviewer.cpp
+         moc_qtquick2applicationviewer.cpp
+         main.cpp
+         qtquick2applicationviewer.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\x64\Debug\\ComputerAnimationPro.exe" /NOLOGO /LIBPATH:D:\Qt\5.8\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Qmld.lib Qt5Quickd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\x64\Debug\ComputerAnimationPro.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\x64\Debug\ComputerAnimationPro.lib" /MACHINE:X64 x64\Debug\moc_qtquick2applicationviewer.obj
+         x64\Debug\main.obj
+         x64\Debug\qtquick2applicationviewer.obj
+         ComputerAnimationPro.vcxproj -> C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\x64\Debug\ComputerAnimationPro.exe
+     1>已完成生成项目“C:\Users\XZP\Desktop\计算机动画\ComputerAnimationPro\ComputerAnimationPro\ComputerAnimationPro\ComputerAnimationPro.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.50
