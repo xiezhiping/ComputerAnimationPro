@@ -1,2 +1,2 @@
 # ComputerAnimationPro
-计算机动画
+Computer Animation Project
